@@ -1,2 +1,2 @@
 # Zero BC (ILRLabs)
-Zero BC Project [Win11 version]
+Zero BC App [Win11 version]
