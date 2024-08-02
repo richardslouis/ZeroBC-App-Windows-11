@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\0bc.xyz\0bc.xyz\bin\x86\Release\Upload\0bc.xyz_6.0.2204.0_x86.appx
+SymbolPackage=C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\0bc.xyz\0bc.xyz\bin\x86\Release\Upload\0bc.xyz_6.0.2204.0\0bc.xyz_6.0.2204.0_x86.appxsym
