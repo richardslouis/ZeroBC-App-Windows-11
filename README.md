@@ -1,4 +1,4 @@
-# Zero BC (ILRLabs)
+# Zero BC (Denebsky)
 Zero BC App [Win11 version]
 
 # Overview
